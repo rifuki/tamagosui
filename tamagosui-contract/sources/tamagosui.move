@@ -186,7 +186,7 @@ public entry fun adopt_pet(
     };
 
     let pet_game_data = PetGameData {
-        coins: 20,
+        coins: 100,
         experience: 0,
         level: 1
     };
